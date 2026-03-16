@@ -56,13 +56,15 @@ Critérios: custo-benefício, área útil, amenities (mobiliado, suíte, vaga), 
 
 ## 3. Detalhamento por imóvel
 
-### 🥇 1º — 778979 | Cidade Baixa
+### 🥇 1º — [778979](https://www.auxiliadorapredial.com.br/imovel/aluguel/778979) | Cidade Baixa
 
-*Sem imagem disponível*
+**[🗺️ Ver no Google Maps Street View](https://www.google.com/maps?q=Rua+General+Lima+e+Silva,+Cidade+Baixa,+Porto+Alegre)**
+
+*Sem imagem disponível* · [Ver anúncio](https://www.auxiliadorapredial.com.br/imovel/aluguel/778979)
 
 | Campo | Valor |
 |-------|-------|
-| Endereço | Rua General Lima e Silva, Cidade Baixa |
+| Endereço | [Rua General Lima e Silva, Cidade Baixa](https://www.google.com/maps?q=Rua+General+Lima+e+Silva,+Cidade+Baixa,+Porto+Alegre) |
 | Aluguel | R$ 1.900 |
 | Total | R$ 2.826 |
 | Área | 80 m² |
@@ -72,13 +74,15 @@ Critérios: custo-benefício, área útil, amenities (mobiliado, suíte, vaga), 
 
 ---
 
-### 🥈 2º — 288435 | Rio Branco
+### 🥈 2º — [288435](https://www.auxiliadorapredial.com.br/imovel/aluguel/288435) | Rio Branco
 
-![Imóvel 288435](288435/images/i1573aO43E2_28843566703409469e1.jpg)
+**[🗺️ Ver no Google Maps Street View](https://www.google.com/maps?q=Rua+Cesar+Lombroso,+Rio+Branco,+Porto+Alegre)**
+
+![Imóvel 288435](288435/images/i1573aO43E2_28843566703409469e1.jpg) · [Ver anúncio](https://www.auxiliadorapredial.com.br/imovel/aluguel/288435)
 
 | Campo | Valor |
 |-------|-------|
-| Endereço | Rua Cesar Lombroso, Rio Branco |
+| Endereço | [Rua Cesar Lombroso, Rio Branco](https://www.google.com/maps?q=Rua+Cesar+Lombroso,+Rio+Branco,+Porto+Alegre) |
 | Aluguel | R$ 2.100 |
 | Total | R$ 2.201 |
 | Área | 90 m² |
@@ -88,13 +92,15 @@ Critérios: custo-benefício, área útil, amenities (mobiliado, suíte, vaga), 
 
 ---
 
-### 🥉 3º — 233858 | Centro Histórico
+### 🥉 3º — [233858](https://www.auxiliadorapredial.com.br/imovel/aluguel/233858) | Centro Histórico
 
-![Imóvel 233858](233858/images/i80N5A423I5_23385864198c9965ce6.jpg)
+**[🗺️ Ver no Google Maps Street View](https://www.google.com/maps?q=Rua+Duque+de+Caxias,+Centro+Historico,+Porto+Alegre)**
+
+![Imóvel 233858](233858/images/i80N5A423I5_23385864198c9965ce6.jpg) · [Ver anúncio](https://www.auxiliadorapredial.com.br/imovel/aluguel/233858)
 
 | Campo | Valor |
 |-------|-------|
-| Endereço | Rua Duque de Caxias, Centro Histórico |
+| Endereço | [Rua Duque de Caxias, Centro Histórico](https://www.google.com/maps?q=Rua+Duque+de+Caxias,+Centro+Historico,+Porto+Alegre) |
 | Aluguel | R$ 1.690 |
 | Total | R$ 2.120 |
 | Área | 69 m² |
@@ -104,13 +110,15 @@ Critérios: custo-benefício, área útil, amenities (mobiliado, suíte, vaga), 
 
 ---
 
-### 4º — 713219 | Menino Deus
+### 4º — [713219](https://www.auxiliadorapredial.com.br/imovel/aluguel/713219) | Menino Deus
 
-![Imóvel 713219](713219/images/iC9cPj_71321968399c2972d2f.jpg)
+**[🗺️ Ver no Google Maps Street View](https://www.google.com/maps?q=Rua+Baronesa+do+Gravatai,+Menino+Deus,+Porto+Alegre)**
+
+![Imóvel 713219](713219/images/iC9cPj_71321968399c2972d2f.jpg) · [Ver anúncio](https://www.auxiliadorapredial.com.br/imovel/aluguel/713219)
 
 | Campo | Valor |
 |-------|-------|
-| Endereço | Rua Baronesa do Gravataí, Menino Deus |
+| Endereço | [Rua Baronesa do Gravataí, Menino Deus](https://www.google.com/maps?q=Rua+Baronesa+do+Gravatai,+Menino+Deus,+Porto+Alegre) |
 | Aluguel | R$ 1.800 |
 | Total | R$ 2.417 |
 | Área | 60 m² |
@@ -120,13 +128,15 @@ Critérios: custo-benefício, área útil, amenities (mobiliado, suíte, vaga), 
 
 ---
 
-### 5º — 399585 | Centro Histórico
+### 5º — [399585](https://www.auxiliadorapredial.com.br/imovel/aluguel/399585) | Centro Histórico
 
-![Imóvel 399585](399585/images/ivw37m6L132CNd3_3995856915eee6748da.jpg)
+**[🗺️ Ver no Google Maps Street View](https://www.google.com/maps?q=Rua+Jerônimo+Coelho,+Centro+Historico,+Porto+Alegre)**
+
+![Imóvel 399585](399585/images/ivw37m6L132CNd3_3995856915eee6748da.jpg) · [Ver anúncio](https://www.auxiliadorapredial.com.br/imovel/aluguel/399585)
 
 | Campo | Valor |
 |-------|-------|
-| Endereço | Rua Jerônimo Coelho, Centro Histórico |
+| Endereço | [Rua Jerônimo Coelho, Centro Histórico](https://www.google.com/maps?q=Rua+Jerônimo+Coelho,+Centro+Historico,+Porto+Alegre) |
 | Aluguel | R$ 1.850 |
 | Total | R$ 2.943 |
 | Área | 99 m² |
@@ -136,13 +146,15 @@ Critérios: custo-benefício, área útil, amenities (mobiliado, suíte, vaga), 
 
 ---
 
-### 6º — 780137 | Menino Deus
+### 6º — [780137](https://www.auxiliadorapredial.com.br/imovel/aluguel/780137) | Menino Deus
 
-*Sem imagem disponível*
+**[🗺️ Ver no Google Maps Street View](https://www.google.com/maps?q=Rua+Barao+do+Gravatai,+Menino+Deus,+Porto+Alegre)**
+
+*Sem imagem disponível* · [Ver anúncio](https://www.auxiliadorapredial.com.br/imovel/aluguel/780137)
 
 | Campo | Valor |
 |-------|-------|
-| Endereço | Rua Barão do Gravataí, Menino Deus |
+| Endereço | [Rua Barão do Gravataí, Menino Deus](https://www.google.com/maps?q=Rua+Barao+do+Gravatai,+Menino+Deus,+Porto+Alegre) |
 | Aluguel | R$ 1.700 |
 | Total | R$ 2.080 |
 | Área | 78 m² |
@@ -152,13 +164,15 @@ Critérios: custo-benefício, área útil, amenities (mobiliado, suíte, vaga), 
 
 ---
 
-### 7º — 773524 | Rio Branco
+### 7º — [773524](https://www.auxiliadorapredial.com.br/imovel/aluguel/773524) | Rio Branco
 
-*Sem imagem disponível*
+**[🗺️ Ver no Google Maps Street View](https://www.google.com/maps?q=Rua+Cabral,+Rio+Branco,+Porto+Alegre)**
+
+*Sem imagem disponível* · [Ver anúncio](https://www.auxiliadorapredial.com.br/imovel/aluguel/773524)
 
 | Campo | Valor |
 |-------|-------|
-| Endereço | Rua Cabral, Rio Branco |
+| Endereço | [Rua Cabral, Rio Branco](https://www.google.com/maps?q=Rua+Cabral,+Rio+Branco,+Porto+Alegre) |
 | Aluguel | R$ 2.200 |
 | Total | R$ 2.660 |
 | Área | 72 m² |
@@ -168,13 +182,15 @@ Critérios: custo-benefício, área útil, amenities (mobiliado, suíte, vaga), 
 
 ---
 
-### 8º — 778856 | Cidade Baixa
+### 8º — [778856](https://www.auxiliadorapredial.com.br/imovel/aluguel/778856) | Cidade Baixa
 
-![Imóvel 778856](778856/images/i6qs26IVKi75763Fz7WCF_77885669af2ea6d4ebf.jpg)
+**[🗺️ Ver no Google Maps Street View](https://www.google.com/maps?q=Travessa+Pesqueiro,+Cidade+Baixa,+Porto+Alegre)**
+
+![Imóvel 778856](778856/images/i6qs26IVKi75763Fz7WCF_77885669af2ea6d4ebf.jpg) · [Ver anúncio](https://www.auxiliadorapredial.com.br/imovel/aluguel/778856)
 
 | Campo | Valor |
 |-------|-------|
-| Endereço | Travessa Pesqueiro, Cidade Baixa |
+| Endereço | [Travessa Pesqueiro, Cidade Baixa](https://www.google.com/maps?q=Travessa+Pesqueiro,+Cidade+Baixa,+Porto+Alegre) |
 | Aluguel | R$ 2.500 |
 | Total | R$ 3.163 |
 | Área | 70 m² |
@@ -184,13 +200,15 @@ Critérios: custo-benefício, área útil, amenities (mobiliado, suíte, vaga), 
 
 ---
 
-### 9º — 324467 | Centro Histórico
+### 9º — [324467](https://www.auxiliadorapredial.com.br/imovel/aluguel/324467) | Centro Histórico
 
-![Imóvel 324467](324467/images/iU393cT53H23A_3244676580947e2f077.jpg)
+**[🗺️ Ver no Google Maps Street View](https://www.google.com/maps?q=Rua+Riachuelo,+Centro+Historico,+Porto+Alegre)**
+
+![Imóvel 324467](324467/images/iU393cT53H23A_3244676580947e2f077.jpg) · [Ver anúncio](https://www.auxiliadorapredial.com.br/imovel/aluguel/324467)
 
 | Campo | Valor |
 |-------|-------|
-| Endereço | Rua Riachuelo, Centro Histórico |
+| Endereço | [Rua Riachuelo, Centro Histórico](https://www.google.com/maps?q=Rua+Riachuelo,+Centro+Historico,+Porto+Alegre) |
 | Aluguel | R$ 1.890 |
 | Total | R$ 2.280 |
 | Área | 68 m² |
@@ -200,13 +218,15 @@ Critérios: custo-benefício, área útil, amenities (mobiliado, suíte, vaga), 
 
 ---
 
-### 10º — 769207 | Menino Deus
+### 10º — [769207](https://www.auxiliadorapredial.com.br/imovel/aluguel/769207) | Menino Deus
 
-*Sem imagem disponível*
+**[🗺️ Ver no Google Maps Street View](https://www.google.com/maps?q=Av+Getulio+Vargas,+Menino+Deus,+Porto+Alegre)**
+
+*Sem imagem disponível* · [Ver anúncio](https://www.auxiliadorapredial.com.br/imovel/aluguel/769207)
 
 | Campo | Valor |
 |-------|-------|
-| Endereço | Av. Getúlio Vargas, Menino Deus |
+| Endereço | [Av. Getúlio Vargas, Menino Deus](https://www.google.com/maps?q=Av+Getulio+Vargas,+Menino+Deus,+Porto+Alegre) |
 | Aluguel | R$ 2.000 |
 | Total | R$ 2.505 |
 | Área | 68 m² |
@@ -216,13 +236,15 @@ Critérios: custo-benefício, área útil, amenities (mobiliado, suíte, vaga), 
 
 ---
 
-### 11º — 301265 | Centro Histórico
+### 11º — [301265](https://www.auxiliadorapredial.com.br/imovel/aluguel/301265) | Centro Histórico
 
-![Imóvel 301265](301265/images/i4H1531d76V_3012656985e86e05fb2.jpg)
+**[🗺️ Ver no Google Maps Street View](https://www.google.com/maps?q=Rua+Demetrio+Ribeiro,+Centro+Historico,+Porto+Alegre)**
+
+![Imóvel 301265](301265/images/i4H1531d76V_3012656985e86e05fb2.jpg) · [Ver anúncio](https://www.auxiliadorapredial.com.br/imovel/aluguel/301265)
 
 | Campo | Valor |
 |-------|-------|
-| Endereço | Rua Demétrio Ribeiro, Centro Histórico |
+| Endereço | [Rua Demétrio Ribeiro, Centro Histórico](https://www.google.com/maps?q=Rua+Demetrio+Ribeiro,+Centro+Historico,+Porto+Alegre) |
 | Aluguel | R$ 2.000 |
 | Total | R$ 2.760 |
 | Área | 66 m² |
@@ -232,13 +254,15 @@ Critérios: custo-benefício, área útil, amenities (mobiliado, suíte, vaga), 
 
 ---
 
-### 12º — 368518 | Menino Deus
+### 12º — [368518](https://www.auxiliadorapredial.com.br/imovel/aluguel/368518) | Menino Deus
 
-![Imóvel 368518](368518/images/i78763K94598i_368518699dbe9f7d5ae.jpg)
+**[🗺️ Ver no Google Maps Street View](https://www.google.com/maps?q=Rua+Jose+de+Alencar,+Menino+Deus,+Porto+Alegre)**
+
+![Imóvel 368518](368518/images/i78763K94598i_368518699dbe9f7d5ae.jpg) · [Ver anúncio](https://www.auxiliadorapredial.com.br/imovel/aluguel/368518)
 
 | Campo | Valor |
 |-------|-------|
-| Endereço | Rua José de Alencar, Menino Deus |
+| Endereço | [Rua José de Alencar, Menino Deus](https://www.google.com/maps?q=Rua+Jose+de+Alencar,+Menino+Deus,+Porto+Alegre) |
 | Aluguel | R$ 2.100 |
 | Total | R$ 2.673 |
 | Área | 64 m² |
@@ -248,13 +272,15 @@ Critérios: custo-benefício, área útil, amenities (mobiliado, suíte, vaga), 
 
 ---
 
-### 13º — 235724 | Centro Histórico
+### 13º — [235724](https://www.auxiliadorapredial.com.br/imovel/aluguel/235724) | Centro Histórico
 
-![Imóvel 235724](235724/images/iw3g66_235724681cfc9f8fbd5.jpg)
+**[🗺️ Ver no Google Maps Street View](https://www.google.com/maps?q=Rua+Riachuelo,+Centro+Historico,+Porto+Alegre)**
+
+![Imóvel 235724](235724/images/iw3g66_235724681cfc9f8fbd5.jpg) · [Ver anúncio](https://www.auxiliadorapredial.com.br/imovel/aluguel/235724)
 
 | Campo | Valor |
 |-------|-------|
-| Endereço | Rua Riachuelo, Centro Histórico |
+| Endereço | [Rua Riachuelo, Centro Histórico](https://www.google.com/maps?q=Rua+Riachuelo,+Centro+Historico,+Porto+Alegre) |
 | Aluguel | R$ 2.200 |
 | Total | R$ 3.063 |
 | Área | 97 m² |
@@ -264,13 +290,15 @@ Critérios: custo-benefício, área útil, amenities (mobiliado, suíte, vaga), 
 
 ---
 
-### 14º — 383167 | Centro Histórico
+### 14º — [383167](https://www.auxiliadorapredial.com.br/imovel/aluguel/383167) | Centro Histórico
 
-![Imóvel 383167](383167/images/i1u9R482cpAm3W42_383167630a284894bd3.jpg)
+**[🗺️ Ver no Google Maps Street View](https://www.google.com/maps?q=Praca+Raul+Pilla,+Centro+Historico,+Porto+Alegre)**
+
+![Imóvel 383167](383167/images/i1u9R482cpAm3W42_383167630a284894bd3.jpg) · [Ver anúncio](https://www.auxiliadorapredial.com.br/imovel/aluguel/383167)
 
 | Campo | Valor |
 |-------|-------|
-| Endereço | Praça Raul Pilla, Centro Histórico |
+| Endereço | [Praça Raul Pilla, Centro Histórico](https://www.google.com/maps?q=Praca+Raul+Pilla,+Centro+Historico,+Porto+Alegre) |
 | Aluguel | R$ 2.000 |
 | Total | R$ 3.070 |
 | Área | 85 m² |
@@ -280,13 +308,15 @@ Critérios: custo-benefício, área útil, amenities (mobiliado, suíte, vaga), 
 
 ---
 
-### 15º — 283896 | Centro Histórico
+### 15º — [283896](https://www.auxiliadorapredial.com.br/imovel/aluguel/283896) | Centro Histórico
 
-![Imóvel 283896](283896/images/i8z4o84T648S315P_2838966243560a4b566.jpg)
+**[🗺️ Ver no Google Maps Street View](https://www.google.com/maps?q=Av+Independencia,+Centro+Historico,+Porto+Alegre)**
+
+![Imóvel 283896](283896/images/i8z4o84T648S315P_2838966243560a4b566.jpg) · [Ver anúncio](https://www.auxiliadorapredial.com.br/imovel/aluguel/283896)
 
 | Campo | Valor |
 |-------|-------|
-| Endereço | Av. Independência, Centro Histórico |
+| Endereço | [Av. Independência, Centro Histórico](https://www.google.com/maps?q=Av+Independencia,+Centro+Historico,+Porto+Alegre) |
 | Aluguel | R$ 1.926 |
 | Total | R$ 3.013 |
 | Área | 77 m² |
@@ -296,13 +326,15 @@ Critérios: custo-benefício, área útil, amenities (mobiliado, suíte, vaga), 
 
 ---
 
-### 16º — 482419 | Centro Histórico
+### 16º — [482419](https://www.auxiliadorapredial.com.br/imovel/aluguel/482419) | Centro Histórico
 
-![Imóvel 482419](482419/images/ieS97zS87_4824196961535d0ad1e.jpg)
+**[🗺️ Ver no Google Maps Street View](https://www.google.com/maps?q=Rua+Coronel+Genuino,+Centro+Historico,+Porto+Alegre)**
+
+![Imóvel 482419](482419/images/ieS97zS87_4824196961535d0ad1e.jpg) · [Ver anúncio](https://www.auxiliadorapredial.com.br/imovel/aluguel/482419)
 
 | Campo | Valor |
 |-------|-------|
-| Endereço | Rua Coronel Genuíno, Centro Histórico |
+| Endereço | [Rua Coronel Genuíno, Centro Histórico](https://www.google.com/maps?q=Rua+Coronel+Genuino,+Centro+Historico,+Porto+Alegre) |
 | Aluguel | R$ 2.200 |
 | Total | R$ 3.110 |
 | Área | 76 m² |
@@ -312,13 +344,15 @@ Critérios: custo-benefício, área útil, amenities (mobiliado, suíte, vaga), 
 
 ---
 
-### 17º — 774911 | Menino Deus
+### 17º — [774911](https://www.auxiliadorapredial.com.br/imovel/aluguel/774911) | Menino Deus
 
-*Sem imagem disponível*
+**[🗺️ Ver no Google Maps Street View](https://www.google.com/maps?q=Rua+Botafogo,+Menino+Deus,+Porto+Alegre)**
+
+*Sem imagem disponível* · [Ver anúncio](https://www.auxiliadorapredial.com.br/imovel/aluguel/774911)
 
 | Campo | Valor |
 |-------|-------|
-| Endereço | Rua Botafogo, Menino Deus |
+| Endereço | [Rua Botafogo, Menino Deus](https://www.google.com/maps?q=Rua+Botafogo,+Menino+Deus,+Porto+Alegre) |
 | Aluguel | R$ 2.200 |
 | Total | R$ 3.061 |
 | Área | 80 m² |
@@ -328,13 +362,15 @@ Critérios: custo-benefício, área útil, amenities (mobiliado, suíte, vaga), 
 
 ---
 
-### 18º — 413397 | Menino Deus
+### 18º — [413397](https://www.auxiliadorapredial.com.br/imovel/aluguel/413397) | Menino Deus
 
-![Imóvel 413397](413397/images/iVE4B8X63I91J8_413397697254e472af1.jpg)
+**[🗺️ Ver no Google Maps Street View](https://www.google.com/maps?q=Rua+Barao+de+Teffe,+Menino+Deus,+Porto+Alegre)**
+
+![Imóvel 413397](413397/images/iVE4B8X63I91J8_413397697254e472af1.jpg) · [Ver anúncio](https://www.auxiliadorapredial.com.br/imovel/aluguel/413397)
 
 | Campo | Valor |
 |-------|-------|
-| Endereço | Rua Barão de Teffe, Menino Deus |
+| Endereço | [Rua Barão de Teffe, Menino Deus](https://www.google.com/maps?q=Rua+Barao+de+Teffe,+Menino+Deus,+Porto+Alegre) |
 | Aluguel | R$ 2.000 |
 | Total | R$ 3.062 |
 | Área | 60 m² |
@@ -344,13 +380,15 @@ Critérios: custo-benefício, área útil, amenities (mobiliado, suíte, vaga), 
 
 ---
 
-### 19º — 781919 | Menino Deus
+### 19º — [781919](https://www.auxiliadorapredial.com.br/imovel/aluguel/781919) | Menino Deus
 
-*Sem imagem disponível*
+**[🗺️ Ver no Google Maps Street View](https://www.google.com/maps?q=Rua+Uruguaiana,+Menino+Deus,+Porto+Alegre)**
+
+*Sem imagem disponível* · [Ver anúncio](https://www.auxiliadorapredial.com.br/imovel/aluguel/781919)
 
 | Campo | Valor |
 |-------|-------|
-| Endereço | Rua Uruguaiana, Menino Deus |
+| Endereço | [Rua Uruguaiana, Menino Deus](https://www.google.com/maps?q=Rua+Uruguaiana,+Menino+Deus,+Porto+Alegre) |
 | Aluguel | R$ 2.150 |
 | Total | R$ 2.650 |
 | Área | 65 m² |
@@ -360,13 +398,15 @@ Critérios: custo-benefício, área útil, amenities (mobiliado, suíte, vaga), 
 
 ---
 
-### 20º — 414697 | Centro Histórico
+### 20º — [414697](https://www.auxiliadorapredial.com.br/imovel/aluguel/414697) | Centro Histórico
 
-![Imóvel 414697](414697/images/i85H1CvqwLZn_41469768fa3901f2be2.jpg)
+**[🗺️ Ver no Google Maps Street View](https://www.google.com/maps?q=Rua+Jerônimo+Coelho,+Centro+Historico,+Porto+Alegre)**
+
+![Imóvel 414697](414697/images/i85H1CvqwLZn_41469768fa3901f2be2.jpg) · [Ver anúncio](https://www.auxiliadorapredial.com.br/imovel/aluguel/414697)
 
 | Campo | Valor |
 |-------|-------|
-| Endereço | Rua Jerônimo Coelho, Centro Histórico |
+| Endereço | [Rua Jerônimo Coelho, Centro Histórico](https://www.google.com/maps?q=Rua+Jerônimo+Coelho,+Centro+Historico,+Porto+Alegre) |
 | Aluguel | R$ 2.350 |
 | Total | R$ 3.427 |
 | Área | 180 m² |
@@ -376,13 +416,15 @@ Critérios: custo-benefício, área útil, amenities (mobiliado, suíte, vaga), 
 
 ---
 
-### 21º — 781392 | Farroupilha
+### 21º — [781392](https://www.auxiliadorapredial.com.br/imovel/aluguel/781392) | Farroupilha
 
-![Imóvel 781392](781392/images/ie66suz9V91Ig67J1NuB8_78139269b2e045c0acb.jpg)
+**[🗺️ Ver no Google Maps Street View](https://www.google.com/maps?q=Av+Joao+Pessoa,+Farroupilha,+Porto+Alegre)**
+
+![Imóvel 781392](781392/images/ie66suz9V91Ig67J1NuB8_78139269b2e045c0acb.jpg) · [Ver anúncio](https://www.auxiliadorapredial.com.br/imovel/aluguel/781392)
 
 | Campo | Valor |
 |-------|-------|
-| Endereço | Av. João Pessoa, Farroupilha |
+| Endereço | [Av. João Pessoa, Farroupilha](https://www.google.com/maps?q=Av+Joao+Pessoa,+Farroupilha,+Porto+Alegre) |
 | Aluguel | R$ 2.600 |
 | Total | R$ 3.590 |
 | Área | 86 m² |
