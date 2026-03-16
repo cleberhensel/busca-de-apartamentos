@@ -1,0 +1,11 @@
+{
+  "name": "apartamentos-extrair",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "extrair-imagens": "node extrair-imagens.mjs"
+  },
+  "devDependencies": {
+    "playwright": "^1.49.0"
+  }
+}
